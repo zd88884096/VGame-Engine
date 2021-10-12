@@ -1,0 +1,11 @@
+.idea/
+*.o
+*.out
+.vs/
+out/
+.*~
+*.exe
+*.gch
+*.swp
+*.json
+build/

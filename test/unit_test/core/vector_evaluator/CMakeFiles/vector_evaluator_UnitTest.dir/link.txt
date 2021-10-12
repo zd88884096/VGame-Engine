@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -DNDEBUG -O3 -march=native  -Wl,--enable-auto-import CMakeFiles/vector_evaluator_UnitTest.dir/unitTest.cpp.o  -o vector_evaluator_UnitTest.exe -Wl,--out-implib,libvector_evaluator_UnitTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

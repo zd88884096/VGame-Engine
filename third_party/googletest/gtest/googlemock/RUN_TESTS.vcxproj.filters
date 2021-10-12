@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\zd888\OneDrive\Desktop\Projects\C++ Math Lib\vmathlibrary\third_party\googletest\build\CMakeFiles\f837cbb93ffee8ef8e49b8bc148ce1c9\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F89F0C0B-8714-3BD9-8CD2-040A8697C943}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

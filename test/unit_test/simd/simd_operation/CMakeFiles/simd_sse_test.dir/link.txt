@@ -1,0 +1,1 @@
+/usr/bin/c++.exe   -Wl,--enable-auto-import CMakeFiles/simd_sse_test.dir/simd_sse_test.cpp.o  -o simd_sse_test.exe -Wl,--out-implib,libsimd_sse_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lgtestd -lgtest_maind -lgmockd -lgmock_maind 

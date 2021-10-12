@@ -1,0 +1,1 @@
+/usr/bin/c++.exe   -Wl,--enable-auto-import CMakeFiles/conceptUnitTest.dir/unitTest.cpp.o  -o conceptUnitTest.exe -Wl,--out-implib,libconceptUnitTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

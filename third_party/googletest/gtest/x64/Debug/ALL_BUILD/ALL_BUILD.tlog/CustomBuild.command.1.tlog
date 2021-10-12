@@ -1,0 +1,10 @@
+^C:\USERS\ZD888\ONEDRIVE\DESKTOP\PROJECTS\C++ MATH LIB\VMATHLIBRARY\THIRD_PARTY\GOOGLETEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/zd888/OneDrive/Desktop/Projects/C++ Math Lib/vmathlibrary/third_party/googletest" "-BC:/Users/zd888/OneDrive/Desktop/Projects/C++ Math Lib/vmathlibrary/third_party/googletest/build" --check-stamp-file "C:/Users/zd888/OneDrive/Desktop/Projects/C++ Math Lib/vmathlibrary/third_party/googletest/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

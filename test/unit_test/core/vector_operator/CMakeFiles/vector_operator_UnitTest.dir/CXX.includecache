@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/C/users/zd888/OneDrive/Desktop/Projects/C++ Math Lib/vmathlibrary/test/unit_test/core/vector_operator/unitTest.cpp
+core/vector_operator.h
+/cygdrive/C/users/zd888/OneDrive/Desktop/Projects/C++ Math Lib/vmathlibrary/test/unit_test/core/vector_operator/core/vector_operator.h
+timer.h
+/cygdrive/C/users/zd888/OneDrive/Desktop/Projects/C++ Math Lib/vmathlibrary/test/unit_test/core/vector_operator/timer.h
+iostream
+-
+
+utility/timer.h
+thread
+-
+chrono
+-
+type_traits
+-
+ctime
+-
+mutex
+-
+concepts
+-
+

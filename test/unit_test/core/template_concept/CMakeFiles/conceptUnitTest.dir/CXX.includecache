@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/C/users/zd888/OneDrive/Desktop/Projects/C++ Math Lib/vmathlibrary/test/unit_test/core/template_concept/unitTest.cpp
+

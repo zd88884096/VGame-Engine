@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\zd888\OneDrive\Desktop\Projects\C++ Math Lib\vmathlibrary\third_party\googletest\googletest\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zd888\OneDrive\Desktop\Projects\C++ Math Lib\vmathlibrary\third_party\googletest\googlemock\src\gmock-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zd888\OneDrive\Desktop\Projects\C++ Math Lib\vmathlibrary\third_party\googletest\googlemock\src\gmock_main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\zd888\OneDrive\Desktop\Projects\C++ Math Lib\vmathlibrary\third_party\googletest\googlemock\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3B1552D2-AF8A-37AC-BB6C-00A92E2C28F0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

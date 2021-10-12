@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/zd888/OneDrive/Desktop/Projects/C++ Math Lib/vmathlibrary/third_party/googletest/googlemock/CMakeLists.txt
+  gtest-all.cc
+  gmock-all.cc
+  gmock_main.cc
+  Generating Code...
+  gmock_main.vcxproj -> C:\Users\zd888\OneDrive\Desktop\Projects\C++ Math Lib\vmathlibrary\third_party\googletest\build\lib\Debug\gmock_maind.lib

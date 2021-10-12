@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g3 -march=native  -Wl,--enable-auto-import CMakeFiles/compileTest.dir/compileTest.cpp.o  -o compileTest.exe -Wl,--out-implib,libcompileTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

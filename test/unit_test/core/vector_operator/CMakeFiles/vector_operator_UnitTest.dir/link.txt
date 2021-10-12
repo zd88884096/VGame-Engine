@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -O3 -march=native -DNDEBUG  -Wl,--enable-auto-import CMakeFiles/vector_operator_UnitTest.dir/unitTest.cpp.o  -o vector_operator_UnitTest.exe -Wl,--out-implib,libvector_operator_UnitTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
